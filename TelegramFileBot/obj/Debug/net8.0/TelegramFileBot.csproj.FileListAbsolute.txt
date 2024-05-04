@@ -1,0 +1,17 @@
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\TelegramFileBot.exe
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\TelegramFileBot.deps.json
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\TelegramFileBot.runtimeconfig.json
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\TelegramFileBot.dll
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\TelegramFileBot.pdb
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.AssemblyInfoInputs.cache
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.AssemblyInfo.cs
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\Telegram.E11B6A40.Up2Date
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.dll
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\refint\TelegramFileBot.dll
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.pdb
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\TelegramFileBot.genruntimeconfig.cache
+C:\Users\HP\OneDrive\Desktop\TelegramFileBot\obj\Debug\net8.0\ref\TelegramFileBot.dll
